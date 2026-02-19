@@ -223,7 +223,7 @@ TARGET_DEVICE_ALT := "moonstone, sunstone"
 OF_UNBIND_SDCARD_F2FS := 1
 OF_UNMOUNT_SDCARDS_BEFORE_REBOOT := 1
 OF_USE_DMCTL := 1
-OF_MAINTAINER := "Yo Ndak Tau Kok Tanya Saya"
+OF_MAINTAINER := Yo Ndak Tau Kok Tanya Saya
 
 # TWRP Debug Flags
 TWRP_INCLUDE_LOGCAT := true
